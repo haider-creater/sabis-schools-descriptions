@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>SABIS® Schools Worldwide</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        .header {
+            text-align: center;
+            padding: 20px;
+            background-color: #003366;
+            color: white;
+        }
+        .school-region {
+            margin: 30px 0;
+            padding: 20px;
+            background-color: #f5f5f5;
+            border-radius: 5px;
+        }
+        .school-list {
+            list-style-type: none;
+            padding: 0;
+        }
+        .school-item {
+            margin: 10px 0;
+            padding: 10px;
+            background-color: white;
+            border-left: 4px solid #003366;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>SABIS® Schools Around the World</h1>
+            <p>Excellence in Education Since 1886</p>
+        </div>
+
+        <div class="school-region">
+            <h2>Middle East Region</h2>
+            <ul class="school-list">
+                <li class="school-item">
+                    <h3>International School of Choueifat - Dubai</h3>
+                    <p>Located in Dubai, UAE, offering K-12 education with the SABIS® Educational System.</p>
+                </li>
+                <li class="school-item">
+                    <h3>International School of Choueifat - Abu Dhabi</h3>
+                    <p>Established in Abu Dhabi, providing world-class education to students from diverse backgrounds.</p>
+                </li>
+            </ul>
+        </div>
+
+        <div class="school-region">
+            <h2>Europe Region</h2>
+            <ul class="school-list">
+                <li class="school-item">
+                    <h3>ISF International School Frankfurt Rhein-Main</h3>
+                    <p>Located in Germany, offering the SABIS® curriculum to international students.</p>
+                </li>
+                <li class="school-item">
+                    <h3>SABIS® International School - UK</h3>
+                    <p>Providing high-quality education in the United Kingdom with the renowned SABIS® system.</p>
+                </li>
+            </ul>
+        </div>
+
+        <div class="school-region">
+            <h2>Americas Region</h2>
+            <ul class="school-list">
+                <li class="school-item">
+                    <h3>International Academy of Flint</h3>
+                    <p>Located in Michigan, USA, implementing the SABIS® Educational System.</p>
+                </li>
+                <li class="school-item">
+                    <h3>SABIS® International School - Phoenix</h3>
+                    <p>Serving students in Arizona with comprehensive college-preparatory education.</p>
+                </li>
+            </ul>
+        </div>
+
+        <div class="school-region">
+            <h2>Africa Region</h2>
+            <ul class="school-list">
+                <li class="school-item">
+                    <h3>International School of Kenya</h3>
+                    <p>Providing the SABIS® curriculum to students in Nairobi, Kenya.</p>
+                </li>
+                <li class="school-item">
+                    <h3>SABIS® International School - Egypt</h3>
+                    <p>Offering world-class education to students in Cairo, Egypt.</p>
+                </li>
+            </ul>
+        </div>
+
+        <div class="school-region">
+            <h2>About SABIS®</h2>
+            <p>SABIS® is a global education network that operates schools across five continents. With a proven track record of success spanning over 130 years, SABIS® provides a high-quality education to thousands of students worldwide. The SABIS® Educational System is a comprehensive, rigorous, and internationally-oriented curriculum designed to prepare students for success in college and beyond.</p>
+        </div>
+    </div>
+</body>
+</html>
